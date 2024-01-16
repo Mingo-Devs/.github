@@ -2,6 +2,8 @@
 
 Welcome to the ByteSoft team profile on GitHub! We are a talented and energetic group of developers, designers, ideologists, and administrators united by a common passion for creativity and the creation of innovative projects.
 
+![Banner](https://cdn.discordapp.com/attachments/1172795962784235531/1196513262892761098/me5lMtIAWVAORIGINAL.jpg)
+
 ## ByteSoft History 🌐📜
 
 ByteSoft began its journey as a subdivision of Kaze Development Studio, founded on April 23 when Kaze was still known as Fantom Studio. We have come a long and exciting way with Kaze, but during a period of crisis, on November 10, in a joint decision with Kaze, we separated, becoming an independent team, and adopted the name ByteSoft. Since then, we have been forging our own path, striving for new heights in creativity and development.
