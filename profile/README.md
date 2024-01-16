@@ -2,7 +2,7 @@
 
 Welcome to the ByteSoft team profile on GitHub! We are a talented and energetic group of developers, designers, ideologists, and administrators united by a common passion for creativity and the creation of innovative projects.
 
-![Banner](https://cdn.discordapp.com/attachments/1172795962784235531/1196513262892761098/me5lMtIAWVAORIGINAL.jpg)
+![Banner](https://cdn.discordapp.com/attachments/1172795962784235531/1196894227725045822/banner.png?ex=65b9499d&is=65a6d49d&hm=23b944aab644e0e91ef5ddbae16f73b20aedd1eee856eb0e9e834b3d52feecf4&)
 
 ## ByteSoft History 🌐📜
 
