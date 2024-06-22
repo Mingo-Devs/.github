@@ -1,6 +1,6 @@
 # Mingo Devs Team 🚀🌟
 
-Welcome to the ByteSoft team profile on GitHub! We are a talented and energetic group of developers, designers, ideologists, and administrators united by a common passion for creativity and the creation of innovative projects.
+Welcome to the Mingo Devs team profile on GitHub! We are a talented and energetic group of developers, designers, ideologists, and administrators united by a common passion for creativity and the creation of innovative projects.
 
 ![Banner](https://i.yapx.ru/Xk5vI.png)
 
