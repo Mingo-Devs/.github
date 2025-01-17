@@ -6,9 +6,6 @@ Welcome to the Mingo Devs team profile on GitHub! We are a talented and energeti
 
 ## Our Projects 🚀🛠️
 
-### Aika AI
-Aika AI - a Discord chatbot created to provide users with smart and entertaining conversations. Despite the project's closure, we take pride in Aika AI being an essential part of our creative legacy.
-
 ### Plexai
 Cooming soon
 
