@@ -2,7 +2,7 @@
 
 Welcome to the Mingo Devs team profile on GitHub! We are a talented and energetic group of developers, designers, ideologists, and administrators united by a common passion for creativity and the creation of innovative projects.
 
-![Banner](https://i.ibb.co/BHntcCTZ/d80ac40d-f28f-4bd9-a260-c0065f9754f653.png)
+![Banner](https://i.ibb.co/0pscmGYM/d80ac40d-f28f-4bd9-a260-c0065f9754f653.png)
 
 ## Our Projects 🚀🛠️
 
