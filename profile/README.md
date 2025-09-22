@@ -17,4 +17,4 @@ If you share our passion for technology and creativity, we always welcome new ta
 
 Stay updated with our news on [Discord](https://discord.gg/JACFfNHdYF) and [X (Twitter)](https://twitter.com/mingo_offical). We value your opinion, so feel free to share your ideas and suggestions.
 
-**Mingo Devs Team | 2024** 🚀🌟
+**Mingo Devs Team | 2025** 🚀🌟
