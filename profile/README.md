@@ -6,6 +6,9 @@ Welcome to the Mingo Devs team profile on GitHub! We are a talented and energeti
 
 ## Our Projects 🚀🛠️
 
+Jahy Music
+Cooming soon
+
 ## Participation and Support 🤝💼
 
 If you share our passion for technology and creativity, we always welcome new talent to our team. Check out our [job openings](https://discord.gg/JACFfNHdYF) and join us!
